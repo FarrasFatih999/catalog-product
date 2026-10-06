@@ -1,0 +1,5 @@
+com\budiluhur\App.class
+com\budiluhur\catalog\exception\ProductNotFoundException.class
+com\budiluhur\catalog\model\Product.class
+com\budiluhur\catalog\Application.class
+com\budiluhur\catalog\repository\ProductRepository.class
